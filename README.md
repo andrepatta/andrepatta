@@ -1,26 +1,14 @@
 # Hi there 👋
 
-I'm a seasoned software engineer with over 19 years of experience. My journey into blockchain technology began in early 2017 and ever since, I've been delving into the world of decentralization and smart contracts.
+I’m a seasoned software engineer with over 19 years of dynamic experience, deeply specializing in a diverse array of programming languages. My passion for technology sparked at the age of 13 when I first started coding, a journey that quickly escalated as I launched my own business by the age of 14. This early immersion laid a strong foundation for my innovative mindset and entrepreneurial spirit. In early 2017, my curiosity and fascination with decentralization guided me into the world of blockchain technology, where I have remained captivated by its transformative potential. 
+
+Believing that a true master of software development is proficient in any programming language, I approach each project with versatility, adaptability, and a relentless drive to leverage technology to solve complex problems.
 
 ## 🚀 About Me
 
 -  🌐 **Blockchain Developer**: Currently working with [Electroneum](https://electroneum.com) to enhance their blockchain infrastructure and implement cutting-edge solutions.
 -  🎮 **League of Legends Challenges Platform**: Working on a private, highly scalable platform for League of Legends, built on a robust Golang backend.
 -  🛠️ **Tech Enthusiast**: Passionate about optimizing my workflows, I use tools like NeoVim and a Corne split keyboard, constantly refining for optimal performance.
-
-## 🛠️ My Tech Stack
-
--  **Languages**: Go, JavaScript, TypeScript, Solidity, C#, C, C++,
--  **Blockchain**: Bitcoin, Ethereum, Smart Contracts, Distributed Ledger Technology (DLT), Cryptography
--  **Web Development**: Node.js, REST APIs, SQL, ORMs, Gofiber, HTML, HTMX, CSS
--  **Tools**: Git, NeoVim, Docker
--  **Other**: High-Performance Systems, Microservices, Continuous Integration, Continuous Delivery, AWS
-
-## 🌱 Currently Learning
-
--  Advanced Golang
--  Enhancing blockchain scalability and security
--  K8s
 
 ## 📫 How to Reach Me
 
