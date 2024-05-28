@@ -24,7 +24,7 @@ I'm a seasoned software engineer with over 19 years of experience. My journey in
 
 ## 📫 How to Reach Me
 
--  [LinkedIn](https://www.linkedin.com/in/andrelpg/)
+-  [LinkedIn](https://www.linkedin.com/in/andrepatta/)
 -  [Twitter](https://www.x.com/andre_patta/)
 
 ## 🔭 What I'm Working On
