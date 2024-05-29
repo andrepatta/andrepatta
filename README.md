@@ -9,7 +9,7 @@ Believing that a true master of software development is proficient in any progra
 -  🌐 **Blockchain Developer**: Currently working with [Electroneum](https://electroneum.com) to enhance their blockchain infrastructure and implement cutting-edge solutions.
 -  🎮 **League of Legends Challenges Platform**: Working on a private, highly scalable platform for League of Legends, built on a robust Golang backend.
 -  🛠️ **Tech Enthusiast**: Passionate about optimizing my workflows, I use tools like NeoVim and a Corne split keyboard, constantly refining for optimal performance.
--  ⚡ **Streamlined Workflow**: NeoVim, Tmux, Alacritty, Yabai, Skhd, Raycast and Obisidian + Zettelkasten
+-  ⚡ **Streamlined Workflow**: NeoVim, Tmux, Alacritty, Yabai, Skhd, Raycast, Obisidian + Zettelkasten, GPT-4o, llama3:70b and Mixtral
 
 ## 📫 How to Reach Me
 
